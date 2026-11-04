@@ -1,0 +1,66 @@
+{
+  "readyForLaunch": true,
+  "siteName": "Broodwing Guide",
+  "shortName": "Broodwing",
+  "description": "Independent Broodwing Roblox guide to birds, survival, nesting and gameplay.",
+  "language": "en",
+  "locale": "en_US",
+  "authorName": "Editorial Team",
+  "theme": {
+    "preset": "obsidian-red",
+    "overrides": {
+      "background": "0 0% 96%",
+      "foreground": "0 0% 7%",
+      "card": "0 0% 92%",
+      "card-foreground": "0 0% 7%",
+      "primary": "38 92% 50%",
+      "primary-foreground": "0 0% 0%",
+      "secondary": "0 0% 89%",
+      "muted": "0 0% 91%",
+      "muted-foreground": "0 0% 7%",
+      "border": "0 0% 80%",
+      "radius": ".75rem",
+      "card-shadow": "0 18px 50px rgba(20, 20, 30, .1)",
+      "hero-gradient": "radial-gradient(circle at 78% 14%, hsl(38 92% 50% / .2), transparent 36%)",
+      "background-pattern": "linear-gradient(hsl(0 0% 7% / .04) 1px, transparent 1px), linear-gradient(90deg, hsl(0 0% 7% / .04) 1px, transparent 1px)",
+      "font-sans": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "font-heading": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "heading-weight": "700",
+      "heading-letter-spacing": "-0.02em"
+    },
+    "skin": "directory",
+    "headerStyle": "solid",
+    "componentStyle": "sharp",
+    "accentColorId": "default",
+    "colorMode": "custom",
+    "background": "#F4F4F4",
+    "accent": "#F59E0B",
+    "fontId": "source-sans"
+  },
+  "hosting": {
+    "siteUrl": "https://broodwing-wiki.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "allowedExternalDomains": [
+    "www.roblox.com",
+    "rovitals.com",
+    "create.roblox.com"
+  ],
+  "assets": {
+    "logo": "/images/broodwing-logo.svg",
+    "cover": "/images/broodwing-cover.png",
+    "openGraph": "/images/broodwing-cover.png",
+    "favicon": "/images/broodwing-logo.svg"
+  },
+  "game": {
+    "name": "Broodwing",
+    "platform": "Roblox",
+    "developer": "",
+    "genre": "Bird survival and roleplay",
+    "officialUrl": "https://www.roblox.com/games/116189555550783"
+  },
+  "seo": {
+    "titleTemplate": "%s | Broodwing Guide"
+  }
+}

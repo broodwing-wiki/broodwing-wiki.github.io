@@ -1,0 +1,1246 @@
+[
+  {
+    "enabled": true,
+    "slug": "beginner-guide",
+    "pageType": "guide",
+    "navLabel": "Beginner",
+    "title": "Broodwing Beginner Guide: How to Play on Roblox",
+    "description": "Start exploring Broodwing on Roblox with an overview of advertised bird play, food and nesting, plus tips for checking your in-game controls.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Broodwing Roblox guide",
+      "heading": "Broodwing Beginner Guide",
+      "lead": "Start with the core gameplay loop: choose a playable bird, explore, find food, build a nest, and learn how families and chicks work. Check in-game controls before following key-specific tips."
+    },
+    "sections": [
+      {
+        "id": "how-to-start-playing-broodwing",
+        "heading": "How to Start Playing Broodwing",
+        "intro": "Start on Roblox, select an available bird and follow the controls shown by the game itself.",
+        "subsections": [
+          {
+            "heading": "Find the Correct Roblox Game",
+            "paragraphs": [
+              "Open the linked Broodwing Roblox experience rather than a similarly named result for a TV character or another game. This site is an independent guide, not a way to play Broodwing inside the browser.",
+              "Confirm the game name and creator in Roblox before entering. Interface details, server access and creator attribution can change; the current Roblox listing is the final authority."
+            ]
+          },
+          {
+            "heading": "Choose a Bird and Check the Controls",
+            "paragraphs": [
+              "The game premise is to play as a bird. Look at the current selection screen to see which birds are actually available to your account; a species mentioned on a third-party guide is not proof that it appears in your current menu.",
+              "Once inside, read the on-screen tutorial and control prompts for your device. No specific keyboard, controller or touch gestures have been independently tested for this article, so this guide does not invent a flight key."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "birds",
+            "label": "Broodwing Birds",
+            "description": "Separate documented bird names from a live, confirmed roster."
+          }
+        ]
+      },
+      {
+        "id": "your-first-survival-tasks",
+        "heading": "Your First Survival Tasks",
+        "intro": "The practical early loop is movement, food discovery and exploration before attempting the family systems.",
+        "subsections": [
+          {
+            "heading": "Explore and Learn to Fly",
+            "paragraphs": [
+              "Flying is part of the publicly described game experience. Begin by checking the current controls and practicing in a low-pressure area you can identify in game.",
+              "Before relying on any flight technique from a video, confirm that the video shows the same experience and a recent build. Camera, stamina and landing mechanics have not yet been verified."
+            ]
+          },
+          {
+            "heading": "Find Food in the Valley",
+            "paragraphs": [
+              "Hunting fish and bunnies is explicitly named in the published game description. That supports the presence of the activities, but it does not document exact prey locations, hitboxes or a food meter.",
+              "Observe what the game currently presents as edible and whether any prompt appears near it. Avoid trusting precise coordinates until a player has tested them on the live experience."
+            ]
+          },
+          {
+            "heading": "Begin Nesting Safely",
+            "paragraphs": [
+              "Building nests is a central advertised activity. After learning the movement controls, explore the nesting interaction in the game UI rather than following a made-up crafting recipe.",
+              "Specific nest locations, materials and building commands have not been tested for this guide. The nesting page explains the advertised activities and the prompts to look for."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "survival-guide",
+            "label": "Broodwing Survival Guide",
+            "description": "Explore food and hunting information without invented map data."
+          },
+          {
+            "slug": "nesting-guide",
+            "label": "Broodwing Nesting Guide",
+            "description": "Understand nests, eggs, chicks and what still needs testing."
+          }
+        ]
+      },
+      {
+        "id": "eggs-chicks-and-families",
+        "heading": "Eggs, Chicks, and Families",
+        "intro": "Broodwing has a family-and-chicks theme, but an advertised feature should not be confused with a verified instruction.",
+        "subsections": [
+          {
+            "heading": "What the Official Description Confirms",
+            "paragraphs": [
+              "The public game description includes building nests, laying eggs, raising chicks and joining families. It also describes hatching as a baby bird. Those are feature descriptions, not a confirmed list of buttons or prerequisites.",
+              "Treat the nesting process as several separate tasks: discover the nest interaction, check how eggs appear, then explore chick and family roleplay. The current order of mandatory actions has not been proven in-game."
+            ]
+          },
+          {
+            "heading": "What Needs In-Game Verification",
+            "paragraphs": [
+              "The egg placement controls, incubation countdown, eligibility rules for chicks, family invitations and any special unlock requirements remain unverified.",
+              "To report a specific method reliably, capture the active UI and record the date and device. Without that evidence, a source-based overview is more useful than false certainty."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "nesting-guide",
+            "label": "Broodwing Nesting Guide",
+            "description": "Understand nests, eggs, chicks and what still needs testing."
+          }
+        ]
+      },
+      {
+        "id": "common-beginner-mistakes",
+        "heading": "Common Beginner Mistakes",
+        "intro": "Avoid interpreting outdated guides as live game rules.",
+        "subsections": [
+          {
+            "heading": "Do Not Assume Every Bird Has Identical Abilities",
+            "paragraphs": [
+              "Bird choice can affect how you enjoy the game. This guide does not offer a tested bird-by-bird comparison of abilities or numerical attributes.",
+              "Do not choose solely because another website labels one species the strongest. Compare the visible selection options and help text in your actual session."
+            ]
+          },
+          {
+            "heading": "Check Version-Specific Controls",
+            "paragraphs": [
+              "PC, mobile and controller inputs may differ. A specific flight, hunt or nest button should only be published here after live verification.",
+              "If a tutorial describes a button you cannot see, check the in-game settings rather than assuming your game is broken. We do not publish unconfirmed shortcuts as facts."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "birds",
+            "label": "Broodwing Birds",
+            "description": "Separate documented bird names from a live, confirmed roster."
+          }
+        ]
+      },
+      {
+        "id": "next-steps-in-broodwing",
+        "heading": "Next Steps in Broodwing",
+        "intro": "Choose the next guide that matches the task you are trying to perform.",
+        "subsections": [
+          {
+            "heading": "Bird Roster",
+            "paragraphs": [
+              "The bird overview documents which names have appeared in public references and explains why a current in-game roster is still needed."
+            ]
+          },
+          {
+            "heading": "Nesting Guide",
+            "paragraphs": [
+              "The nesting page follows the nest-to-egg-to-chick theme and marks precise interaction steps as unverified."
+            ]
+          },
+          {
+            "heading": "Survival Guide",
+            "paragraphs": [
+              "The survival page separates confirmed prey types from unknown locations, hazards and ability values."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "birds",
+            "label": "Broodwing Birds",
+            "description": "Separate documented bird names from a live, confirmed roster."
+          },
+          {
+            "slug": "nesting-guide",
+            "label": "Broodwing Nesting Guide",
+            "description": "Understand nests, eggs, chicks and what still needs testing."
+          },
+          {
+            "slug": "survival-guide",
+            "label": "Broodwing Survival Guide",
+            "description": "Explore food and hunting information without invented map data."
+          }
+        ]
+      },
+      {
+        "id": "broodwing-first-session-checklist",
+        "heading": "Broodwing First-Session Checklist",
+        "intro": "A simple sequence helps you separate what is confirmed from what you still need to discover in-game.",
+        "subsections": [
+          {
+            "heading": "Step 1: identify the right experience",
+            "paragraphs": [
+              "Search results can refer to unrelated characters or other titles that share the word Broodwing. For this Roblox bird survival game, start from the linked Roblox experience rather than relying on the name alone. Check the title, icon and listed creator in Roblox before proceeding; this reduces the chance of following a guide for a different product.",
+              "Your first task is not to memorize every advanced tip. Enter a session, observe the opening screen and any available tutorial, and determine whether the game explains its controls itself. Device menus and prompts are more trustworthy than a keyboard diagram written without current testing."
+            ]
+          },
+          {
+            "heading": "Step 2: find a comfortable movement loop",
+            "paragraphs": [
+              "The advertised Broodwing experience involves flying. Spend a few minutes understanding movement and camera behavior in the current build before attempting a complicated hunt. If you cannot identify how to move or stop moving, inspect the control menu or the help prompts rather than guessing a shortcut from another Roblox bird game.",
+              "Notice whether the game gives visible feedback when you use an action. You can test one action at a time and return to a familiar area to compare results. This observation-led approach works even when a guide does not yet have a verified key map, and it prevents small mistakes from becoming confusing explanations of nonexistent mechanics."
+            ]
+          },
+          {
+            "heading": "Step 3: explore a basic food activity",
+            "paragraphs": [
+              "The game description mentions hunting fish and bunnies. Try to locate a situation consistent with that description, and watch which interaction prompts actually appear. The existence of prey in the description does not prove an exact spawn location, damage number, inventory limit or hunger timer.",
+              "If you are following a guide from a community post, check its date and make sure it describes this particular Broodwing. A useful observation is more specific than 'it works': record the bird you selected, the object interacted with, the action prompt and what happened afterward. Those details can distinguish a real mechanic from an assumption."
+            ]
+          },
+          {
+            "heading": "Step 4: move toward nests and family play",
+            "paragraphs": [
+              "Once you feel comfortable exploring, look for the nest-related interactions that the game advertises. Build nest, lay eggs, raise chicks and join families are distinct tasks; completing one should not be assumed to complete the others. Follow the in-game steps in the order they become available rather than depending on an unverified universal crafting formula.",
+              "For social features, look for a clearly identified game interface or prompt instead of assuming that chat alone makes someone part of a family. Treat requests from other players carefully and never share account credentials or off-platform payment details to access a roleplay feature."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "nesting-guide",
+            "label": "Nesting guide",
+            "description": "Move from exploration to eggs and family tasks."
+          }
+        ]
+      },
+      {
+        "id": "common-broodwing-beginner-mistakes",
+        "heading": "Common Broodwing Beginner Mistakes",
+        "intro": "The easiest way to lose time in a new Roblox experience is to trust details that were never checked.",
+        "subsections": [
+          {
+            "heading": "Confusing a feature with a walkthrough",
+            "paragraphs": [
+              "A short game description can confirm that an activity exists. It cannot automatically answer the steps, keyboard buttons, required items or cooldowns. For example, the statement that Broodwing includes nests and eggs is not evidence for a particular ingredient list or hatching countdown. Search for in-game prompts before taking a number from a fan post as fact.",
+              "Likewise, the statement that a bird can fly does not tell you whether its mechanics match another Roblox bird game. Copying key bindings across unrelated experiences is a frequent source of bad beginner advice. We intentionally give you a reliable exploration method instead of a made-up key chart."
+            ]
+          },
+          {
+            "heading": "Assuming that the first bird is the best bird",
+            "paragraphs": [
+              "Choose from the birds currently available to your account and consider the activity you want to try. This guide does not rank all birds by speed or strength; use the selection screen and your own experience when comparing options.",
+              "For a first session, focus on learning movement and understanding the interface with any available option. If you later compare species, note the live selection screen, the version and the behavior observed. Our birds page explains how to keep confirmed and unconfirmed information apart."
+            ]
+          },
+          {
+            "heading": "Treating paid purchases as necessary",
+            "paragraphs": [
+              "A new player can research the game's advertised activities without assuming that a gamepass is required. Whether a particular action is included in ordinary play or a paid offering must be checked against the current Roblox purchase screen. We do not have a verified live list of pass benefits or prices, so nobody should treat this guide as a price guarantee.",
+              "If a guide offers 'free passes' through a third-party login, treat that as unverified and avoid entering Roblox credentials. For purchases and access rights, use Roblox's own game and transaction interfaces. The gamepasses guide provides a checklist of questions worth answering before paying."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "broodwing-beginner-troubleshooting",
+        "heading": "Beginner Troubleshooting and Next Steps",
+        "intro": "When an action does not behave as expected, verify the environment before treating the game as broken.",
+        "subsections": [
+          {
+            "heading": "When controls look different",
+            "paragraphs": [
+              "First confirm that the Roblox experience URL matches Broodwing and that you are not reading a tutorial for another bird survival title. Then check your device and the on-screen hints. If you switched between touch, keyboard or controller, an older set of instructions may not apply at all. Do not assume the same icons or prompts appear on every device.",
+              "A screenshot of the exact interface state can help you explain a question to other players, but avoid posting account information or private chat. If an action is genuinely unavailable, distinguish between a missing menu and a menu that you have not yet discovered."
+            ]
+          },
+          {
+            "heading": "What to explore next",
+            "paragraphs": [
+              "Once you can move reliably, move to the separate guides that match your next goal. Read birds for the limits of the currently documented roster, nesting for the nest-to-chick sequence, and survival for hunting-related checks. A focused guide is easier to update when new verified evidence arrives than one giant article that mixes every mechanic together.",
+              "Return to the official Roblox page whenever the game changes. Live game details outrank screenshots from a third-party site, including this one. The quickest way to learn is to pair a clear task with direct observation instead of memorizing dozens of uncertain claims."
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do I play Broodwing?",
+        "answer": "Open the correct Roblox experience and follow the current in-game controls. Publicly described activities include flying, hunting, building nests, laying eggs and raising chicks."
+      },
+      {
+        "question": "How do I fly in Broodwing?",
+        "answer": "Flying is a confirmed advertised activity, but a reliable PC or mobile control sequence has not yet been tested for this guide. Check your in-game control prompts."
+      }
+    ],
+    "relatedSlugs": [
+      "birds",
+      "nesting-guide",
+      "survival-guide",
+      "gamepasses"
+    ],
+    "lastReviewed": "2026-11-04"
+  },
+  {
+    "enabled": true,
+    "slug": "birds",
+    "pageType": "database",
+    "navLabel": "Birds",
+    "title": "Broodwing Birds: Selection & Availability Overview",
+    "description": "Learn how to check bird selection and unlock information in Broodwing. This overview does not provide a verified complete roster or species rankings.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Broodwing Roblox guide",
+      "heading": "Broodwing Birds Guide",
+      "lead": "Use the current in-game menu to check which birds you can select and what any locked options require. This page is a selection overview, not a verified species inventory."
+    },
+    "sections": [
+      {
+        "id": "playable-birds-in-broodwing",
+        "heading": "Checking Bird Availability",
+        "intro": "There is evidence of bird-related gameplay, but not a directly verified current species inventory.",
+        "subsections": [
+          {
+            "heading": "Use the Current Selection Screen",
+            "paragraphs": [
+              "Broodwing is advertised as a bird roleplay experience. This page explains how to check the selection screen; it is not a complete list of currently playable species.",
+              "Open the current selection menu to see the names available to your account. Availability may change, so an older list should not be treated as the current roster."
+            ]
+          },
+          {
+            "heading": "Names and Availability",
+            "paragraphs": [
+              "A bird appearing in a title, thumbnail or community post does not establish that you can select it. Check the live menu before planning a session around a particular species.",
+              "For each bird, a reliable roster entry needs a game screenshot, actual display name, the observation date and any visible unlock conditions. Without these, a best-bird tier list would be speculation."
+            ]
+          }
+        ],
+        "table": {
+          "caption": "What to check when choosing a bird",
+          "columns": [
+            "Question",
+            "Where to check",
+            "What this guide establishes"
+          ],
+          "rows": [
+            [
+              "Which birds can I select?",
+              "Current bird-selection menu",
+              "No complete live roster"
+            ],
+            [
+              "Does a locked option need a purchase?",
+              "Displayed requirement and official Roblox item listing",
+              "No bird-to-pass mapping"
+            ],
+            [
+              "Is one bird faster or stronger?",
+              "In-game attributes and repeatable comparisons",
+              "No tested numerical rankings"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "how-bird-choices-differ",
+        "heading": "How Bird Choices Differ",
+        "intro": "Select birds based on confirmed in-game information rather than invented stat tables.",
+        "subsections": [
+          {
+            "heading": "Visible Characteristics Versus Unverified Stats",
+            "paragraphs": [
+              "A bird selection screen may show appearance, descriptive text and account-specific options. Those visible items can inform a choice if you check them in the game.",
+              "This guide does not publish tested speed, health, stamina, damage or unlock values. Check any attributes shown by the game and keep appearance separate from a claim about performance."
+            ]
+          },
+          {
+            "heading": "Avoid Made-Up Rankings",
+            "paragraphs": [
+              "A ranking requires comparable tested metrics and the same game version. Descriptive bird names and guide slugs cannot establish a fastest or strongest species.",
+              "If your goal is easy exploration, favor an option the game shows as available and understandable. That is a practical selection approach, not a tested performance ranking."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bird-variants-and-passes",
+        "heading": "Bird Variants and Passes",
+        "intro": "Bird variants require a different evidence standard from basic selectable species.",
+        "subsections": [
+          {
+            "heading": "Check Official Marketplace Listings",
+            "paragraphs": [
+              "Some public sources mention bird color variants as Roblox gamepasses. Names and prices can change and must be checked against official active item listings before purchase.",
+              "The separate gamepasses guide explains the purchase-verification process; it does not present unverified third-party figures as live prices."
+            ]
+          },
+          {
+            "heading": "Appearance Does Not Prove Combat Advantage",
+            "paragraphs": [
+              "A variant name such as leucistic or melanistic describes a color-related concept; the name itself does not prove a gameplay bonus.",
+              "Look for a specific capability statement in the official item description. Do not infer faster flight, stronger attacks or access rights from cosmetic-sounding labels."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "gamepasses",
+            "label": "Broodwing Gamepasses",
+            "description": "Check the official Roblox storefront before any purchase."
+          }
+        ]
+      },
+      {
+        "id": "choosing-a-bird-for-your-play-style",
+        "heading": "Choosing a Bird for Your Play Style",
+        "intro": "Make your choice using what the current game actually displays.",
+        "subsections": [
+          {
+            "heading": "What to Check in the Selection Screen",
+            "paragraphs": [
+              "Check the exact name, whether the choice is locked, any description visible with the choice and whether the selection can be changed.",
+              "If the menu offers a preview, use that before spending anything. This guide does not promise a free switch or a particular unlock path because those details have not been tested."
+            ]
+          },
+          {
+            "heading": "Links to Beginner and Survival Help",
+            "paragraphs": [
+              "After choosing an available bird, learn the movement instructions shown for your device. Then explore the confirmed activities of flying and hunting.",
+              "Use the beginner walkthrough for the first session and survival guide for the distinctions between advertised prey and verified routes."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "beginner-guide",
+            "label": "Broodwing Beginner Guide",
+            "description": "Start with the advertised gameplay loop and control checks."
+          },
+          {
+            "slug": "survival-guide",
+            "label": "Broodwing Survival Guide",
+            "description": "Explore food and hunting information without invented map data."
+          }
+        ]
+      },
+      {
+        "id": "identify-broodwing-birds",
+        "heading": "How to Identify Birds in Broodwing",
+        "intro": "A trustworthy roster needs more than a name seen in an unrelated fan list.",
+        "subsections": [
+          {
+            "heading": "Check the current bird-selection interface",
+            "paragraphs": [
+              "Open the official Broodwing experience in Roblox and inspect the current bird options presented to your account. This is a better starting point than a social post because the selection screen can reflect recent updates, access restrictions or changes to the available roster. If a bird is visible in art but not offered as selectable, it should not be reported as a playable species on that evidence alone.",
+              "For every name, capture exactly what the menu displays. Avoid silently adjusting spelling or adding bird abilities from real-world biology. A game may use stylized names or mechanics, and real birds' behavior is not proof of virtual movement values, attacks or unlock rules."
+            ]
+          },
+          {
+            "heading": "Separate selectable, shown and rumored birds",
+            "paragraphs": [
+              "A selectable bird is one you can confirm in a live menu. A shown bird might appear in a promotional image or as a model in the world. A rumored bird may come from another website or a comment without independent verification. These are three distinct evidence levels, and combining them creates a list that looks complete but may be wrong.",
+              "If you are looking for the latest Broodwing birds, the word latest should mean an actual observation date. A page updated today can still repeat an old rumor. We therefore identify the evidence limits openly and do not invent a confirmed full roster to satisfy a tempting search phrase."
+            ]
+          },
+          {
+            "heading": "Understand access and ownership claims",
+            "paragraphs": [
+              "If an option is locked, read its displayed requirement before spending currency or looking for a pass. A locked tile alone does not explain whether the requirement is a purchase, achievement or another condition.",
+              "When comparing access requirements, record what is shown to your account and whether the interface provides explanatory text. Never use a third-party form asking for your Roblox password to unlock a species. The official game and Roblox account controls remain the appropriate places to check access."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "compare-birds-without-made-up-stats",
+        "heading": "How to Compare Broodwing Birds Without Inventing Stats",
+        "intro": "A meaningful comparison starts with observable player goals, not an unsupported tier list.",
+        "subsections": [
+          {
+            "heading": "Choose a goal before judging a bird",
+            "paragraphs": [
+              "For a new player, a useful question may be how easy a bird feels to control during exploration. Someone interested in family roleplay may instead care whether the bird can participate in available nesting interactions. A hunting-focused player may look for clear feedback during food activities. These goals are different, so an overall 'best' label can hide the trade-off you actually care about.",
+              "The present source material confirms the existence of bird play but does not establish per-species numerical attributes. We therefore cannot responsibly rank a complete set of bird speeds, damage values or stamina bars. A comparison table filled with attractive but unverified numbers would be worse for players and search quality than a transparent explanation of what to test."
+            ]
+          },
+          {
+            "heading": "Use repeatable observations",
+            "paragraphs": [
+              "If you test two birds, keep the environment and task as similar as possible. Write down the game update date, device, input type, the two displayed bird names and what each attempt involved. Repeat an observation before treating it as a reliable difference. What looks like a speed advantage might simply be a different path or camera angle.",
+              "Make sure your notes distinguish a direct measurement, a subjective impression and information shown by the menu. A direct menu value is stronger evidence than an estimate, while a subjective impression is still helpful if labeled honestly. This turns a vague ranking into a usable guide for someone choosing a bird."
+            ]
+          },
+          {
+            "heading": "Avoid borrowing rankings from other bird games",
+            "paragraphs": [
+              "Roblox contains multiple games about birds, flying or survival. Similar themes do not mean that their species lists or balancing are interchangeable. If a page does not clearly reference Broodwing and its current Roblox experience, treat its rankings as irrelevant until proven otherwise.",
+              "Our dedicated gamepasses page similarly avoids claiming that a purchase unlocks a particular bird without the product listing. A paid-bird claim and a best-bird claim are both high-impact decisions for players; both deserve exact, current evidence rather than confident guesswork."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "gamepasses",
+            "label": "Gamepasses and access",
+            "description": "See how to verify paid unlock claims."
+          }
+        ]
+      },
+      {
+        "id": "broodwing-birds-player-questions",
+        "heading": "Broodwing Birds: Questions Players Can Verify",
+        "intro": "Use these checks to answer a specific question in the current build.",
+        "subsections": [
+          {
+            "heading": "Is the bird really playable?",
+            "paragraphs": [
+              "Look for a selectable option in the game interface, not merely an image. If access is limited, record the exact message shown on the screen rather than guessing why it is locked. A species name appearing on another game's wiki does not verify its presence in Broodwing.",
+              "The most helpful report identifies the bird, observation date and visible status. It is also useful to mention whether the player is using the standard interface or a special event screen, because the two contexts may differ."
+            ]
+          },
+          {
+            "heading": "Can the bird hunt, nest or join a family?",
+            "paragraphs": [
+              "The game advertises hunting and nesting as broad activities. It does not follow that every playable bird has every possible action in every situation. Test a specific interaction with a named bird and describe what the game displays before stating that the interaction is allowed or forbidden.",
+              "For nest and chick behavior, consult the nesting guide for a checklist of the stages. For food-related behavior, consult survival. A species-specific observation belongs in the relevant section only when it can be verified; otherwise it remains a question, not a claim."
+            ]
+          },
+          {
+            "heading": "How do I find an updated roster?",
+            "paragraphs": [
+              "Return to the official experience after a substantive update, compare the actual options and note any visible additions or removals. Avoid using a third-party article date as evidence that its underlying list has changed. Update history and verified screenshots can be valuable, but they have to refer to the same game.",
+              "This page deliberately does not publish a fictional exhaustive list. It is better to describe a reliable method now and add a species table later when direct in-game records are available than to chase short-term clicks with unsupported facts."
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What birds can you play as in Broodwing?",
+        "answer": "The game lets players play as birds, but the live selection roster has not been independently captured. Open the current bird-selection menu to check the options available to your account."
+      },
+      {
+        "question": "Are Bald Eagle and Barn Owl in Broodwing?",
+        "answer": "This guide does not confirm whether Bald Eagle or Barn Owl is currently selectable. Check the bird menu in the live experience."
+      }
+    ],
+    "relatedSlugs": [
+      "beginner-guide",
+      "nesting-guide",
+      "survival-guide",
+      "gamepasses"
+    ],
+    "lastReviewed": "2026-11-04"
+  },
+  {
+    "enabled": true,
+    "slug": "nesting-guide",
+    "pageType": "guide",
+    "navLabel": "Nesting",
+    "title": "Broodwing Nesting Guide: Eggs, Nests & Chicks",
+    "description": "Explore the nest, egg and chick activities advertised for Broodwing, with an overview of what to check in the current game. Exact steps are not tested here.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Broodwing Roblox guide",
+      "heading": "Broodwing Nesting Guide",
+      "lead": "Broodwing advertises nest building, egg laying, hatching and raising chicks. This guide explains the documented loop without inventing nest materials, button sequences or timers."
+    },
+    "sections": [
+      {
+        "id": "how-nesting-works-in-broodwing",
+        "heading": "How Nesting Works in Broodwing",
+        "intro": "The first confirmed fact is that nests are a supported activity, while placement procedures remain to be tested.",
+        "subsections": [
+          {
+            "heading": "Building a Nest: Verified Controls and Materials",
+            "paragraphs": [
+              "Building nests is explicitly part of the public Broodwing description. The source confirms the activity, not an exact number of branches, placement grid or craft menu.",
+              "Find the current nesting interaction in the game and observe its on-screen instructions. A step-by-step sequence will require live capture before it can be presented as a tested walkthrough."
+            ]
+          },
+          {
+            "heading": "Choosing a Location: What Is Actually Known",
+            "paragraphs": [
+              "This guide does not identify tested safe nesting coordinates, placement restrictions or protection rules. Check the current placement interface before investing time in a location.",
+              "A useful first check is whether the game provides a placement preview or message at your chosen spot. Treat advice about hidden safe zones as a player hypothesis until verified."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "beginner-guide",
+            "label": "Broodwing Beginner Guide",
+            "description": "Start with the advertised gameplay loop and control checks."
+          }
+        ]
+      },
+      {
+        "id": "how-to-lay-and-hatch-eggs",
+        "heading": "How to Lay and Hatch Eggs",
+        "intro": "Eggs and hatching are advertised elements; mechanics should not be invented to fill a tutorial.",
+        "subsections": [
+          {
+            "heading": "Lay Eggs: Confirmed Steps Only",
+            "paragraphs": [
+              "The published game description states that players can lay eggs. It does not specify how many eggs are allowed, whether a nest is always required or which button begins the action.",
+              "If an action prompt appears, follow it and check what changes on screen. A documented method needs the actual interaction label and the game version."
+            ]
+          },
+          {
+            "heading": "Hatching and Baby Bird Roleplay",
+            "paragraphs": [
+              "The game description also refers to hatching as a baby bird and raising chicks. Those terms establish the intended roleplay theme, not a measured incubation period.",
+              "No countdown, ownership rule, cooldown or automatic hatch condition has been checked. Avoid tutorials promising exact hatch timing without a dated gameplay demonstration."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "birds",
+            "label": "Broodwing Birds",
+            "description": "Separate documented bird names from a live, confirmed roster."
+          }
+        ]
+      },
+      {
+        "id": "raising-chicks-and-joining-families",
+        "heading": "Raising Chicks and Joining Families",
+        "intro": "The broad family features are supported; exact social interactions still need evidence.",
+        "subsections": [
+          {
+            "heading": "What the Official Game Description Promises",
+            "paragraphs": [
+              "Raising chicks and joining a family are part of the publicly described play loop. That creates multiple possible roles for players within the bird experience.",
+              "An advertised family feature should be described separately from operational details such as invites, parental permissions or feeding requirements."
+            ]
+          },
+          {
+            "heading": "What Needs Direct Play Testing",
+            "paragraphs": [
+              "The current process of joining a bird family, becoming a chick and caring for chicks has not been independently recorded here.",
+              "To turn this into a reliable walkthrough, capture each on-screen step and identify whether it requires another player. Do not invent group capacity, rewards or growth timers."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nesting-safety-and-troubleshooting",
+        "heading": "Nesting Safety and Troubleshooting",
+        "intro": "Keep observed results separate from unverified community advice.",
+        "subsections": [
+          {
+            "heading": "Check a Nest Before Leaving",
+            "paragraphs": [
+              "After an in-game nest action, look for visible confirmation that your nest exists and whether the interface shows any egg or family options.",
+              "This is a general verification checklist, not a claimed mechanic. No persistent storage, raid protection or nest lifetime has been established."
+            ]
+          },
+          {
+            "heading": "Separate Player Reports from Tested Mechanics",
+            "paragraphs": [
+              "Community tips can suggest things to try. Compare them with the current interface, especially if a tip names a button, material or location that you cannot find.",
+              "If a reported button does nothing, check device prompts and the latest update before assuming there is a bug. The absence of evidence should be stated clearly rather than replaced with a fictional fix."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "survival-guide",
+            "label": "Broodwing Survival Guide",
+            "description": "Explore food and hunting information without invented map data."
+          }
+        ]
+      },
+      {
+        "id": "broodwing-nesting-activity-sequence",
+        "heading": "Broodwing Nesting: A Step-by-Step Activity Sequence",
+        "intro": "The published premise confirms nest and chick activities; individual controls and requirements must be checked live.",
+        "subsections": [
+          {
+            "heading": "Understand the difference between the stages",
+            "paragraphs": [
+              "Building a nest, laying an egg, hatching and raising a chick are separate phrases in the public game description. They suggest a progression of related activities, but they are not a verified recipe or timing diagram. You should not assume that completing a nest instantly creates an egg, or that every egg needs the same number of minutes to hatch.",
+              "Begin by exploring what the game currently offers as a nest interaction. Watch for any action prompt or menu label and write down its wording. If an item appears necessary, confirm it from the current game interface rather than importing a crafting list from a different Roblox survival title."
+            ]
+          },
+          {
+            "heading": "Observe egg-related actions",
+            "paragraphs": [
+              "Once you can identify a nest-related option, inspect whether the game offers an egg action and what feedback appears when it is used. The official description supports laying eggs but does not establish a universal limit, cooldown, color rarity system or requirements for parents. These details are attractive search queries, but they need current evidence before publication.",
+              "If you see another player using an egg mechanic, be careful about treating their character, bird or server context as identical to yours. A single observation may depend on an unrecorded condition. A better guide identifies the state before the action, the action taken and the state afterward."
+            ]
+          },
+          {
+            "heading": "Follow the chick and family activities",
+            "paragraphs": [
+              "The description also mentions raising chicks and joining families. It does not specify an adoption control, age progression timer or mandatory family size. If you want to explore this side of the game, look for explicit interface cues and observe how different players participate without assuming their roleplay dialogue is a game-system notification.",
+              "For social play, use normal Roblox safety settings and avoid sharing private information. Do not follow off-platform promises to hatch rare chicks or unlock family roles. A genuine game mechanic should be checked through the experience itself, not through a password collection page."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "broodwing-nest-research-checklist",
+        "heading": "What to Check Before Following a Nesting Recipe",
+        "intro": "Many popular-sounding nesting facts cannot be inferred from the game description.",
+        "subsections": [
+          {
+            "heading": "Materials and placement",
+            "paragraphs": [
+              "If a guide names a precise number of sticks or a required biome, compare that claim with the current build menu. This overview does not provide a tested recipe or a map of allowed placement areas.",
+              "When you find a candidate nesting spot, note the location in general terms, the selected bird and the prompt that appears. If there is a requirement message, capture its literal wording before translating it into a walkthrough. Small differences such as a locked option versus an unavailable action can change the advice a player needs."
+            ]
+          },
+          {
+            "heading": "Eggs, incubation and hatching times",
+            "paragraphs": [
+              "No verified egg count, incubation duration, hatching probability or rare-chick rate has been provided in this project. Do not calculate a success rate from anecdotes or treat a single player's timer as universal. Game updates, server settings and different interaction states can all make a guessed number unreliable.",
+              "For a useful time-based guide, record the exact moment an action starts, the visible feedback and the observed end point in repeated sessions. If the game explicitly displays a timer, that is stronger evidence than a stopwatch alone. Until such evidence exists, this article explains the sequence without manufacturing a countdown."
+            ]
+          },
+          {
+            "heading": "Family permissions and player roles",
+            "paragraphs": [
+              "Joining a family through an in-game feature and agreeing to roleplay together in chat are different activities. This guide does not confirm invitation controls or membership limits; follow the options shown in your session.",
+              "Players looking for a family can prioritize respectful communication and the in-game tools they actually see. If another person claims that a special purchase is required to join them, check the current official Roblox product descriptions before paying. A roleplay request is not proof of a paid restriction."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "broodwing-nesting-troubleshooting",
+        "heading": "Nesting Questions and Troubleshooting",
+        "intro": "Use a narrow diagnosis rather than guessing at hidden requirements.",
+        "subsections": [
+          {
+            "heading": "Why can I not build a nest?",
+            "paragraphs": [
+              "Check that the feature appears in your current version, then read any prompt or error message. A tutorial may show a different device or interaction state. This guide does not identify a universal minimum level, material count or button that fixes every nesting issue.",
+              "If the action remains unavailable, compare the exact state of your bird and the interface with a current, game-specific source. Screenshots are useful when they show the full relevant menu; blurred short clips can omit the information needed to reproduce an issue."
+            ]
+          },
+          {
+            "heading": "What should I do after an egg appears?",
+            "paragraphs": [
+              "Observe the next visible action rather than assuming an automatic hatch. Record whether the game shows a timer, an interaction prompt or a change in the egg's visual state. The difference matters: an animation can indicate progress without proving that a timer or probability system exists.",
+              "For chick care, follow the current hints and learn the interaction sequence as it is presented. This page provides a framework for tracking those stages until direct, repeatable evidence supports more specific directions."
+            ]
+          },
+          {
+            "heading": "Where can I find related help?",
+            "paragraphs": [
+              "If you are new to Broodwing, the beginner guide covers entering the right Roblox experience and discovering controls. If you are trying to decide which bird to use during nesting, the birds guide explains how to verify availability rather than relying on an unsupported tier list.",
+              "If finding food interrupts your family session, the survival guide focuses on the two types of prey specifically named in the description and explains what remains unconfirmed. Following these related guides is more efficient than starting over from a broad search every time you change activities."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "beginner-guide",
+            "label": "Beginner guide",
+            "description": "Return to first-session basics."
+          },
+          {
+            "slug": "survival-guide",
+            "label": "Survival guide",
+            "description": "Check the food and exploration loop."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can you lay eggs in Broodwing?",
+        "answer": "Yes. Egg laying is included in the published game description, though the current action sequence has not been directly tested here."
+      },
+      {
+        "question": "How do you hatch eggs in Broodwing?",
+        "answer": "Hatching as a baby bird is advertised. The exact incubation and interaction steps still need direct in-game evidence."
+      },
+      {
+        "question": "Can you raise chicks?",
+        "answer": "Yes, raising chicks is part of the public game description. Specific timers, costs and requirements are not yet verified."
+      }
+    ],
+    "relatedSlugs": [
+      "beginner-guide",
+      "birds",
+      "survival-guide",
+      "gamepasses"
+    ],
+    "lastReviewed": "2026-11-04"
+  },
+  {
+    "enabled": true,
+    "slug": "survival-guide",
+    "pageType": "guide",
+    "navLabel": "Survival",
+    "title": "Broodwing Survival: Hunting & Exploration Overview",
+    "description": "Explore the hunting and food activities advertised for Broodwing, with pointers for checking the current interface. No tested spawn routes or damage tables.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Broodwing Roblox guide",
+      "heading": "Broodwing Survival Guide",
+      "lead": "Broodwing features bird survival and hunting. Its public description names fish and bunnies as prey, but does not establish precise routes, enemy damage or food statistics."
+    },
+    "sections": [
+      {
+        "id": "broodwing-survival-basics",
+        "heading": "Broodwing Survival Basics",
+        "intro": "Start with activities actually named by the game rather than invented survival statistics.",
+        "subsections": [
+          {
+            "heading": "Fly, Explore and Look for Food",
+            "paragraphs": [
+              "The published game description features flying and hunting as central activities. Explore the game using the displayed controls, and identify food and interactable objects from actual on-screen prompts.",
+              "Do not assume there is a particular stamina gauge, hunger threshold or safety meter solely because another bird survival game uses one. Those mechanics need observation in Broodwing itself."
+            ]
+          },
+          {
+            "heading": "What Survival Means in the Official Description",
+            "paragraphs": [
+              "The publicly reproduced Roblox description advertises bird play, hunting and nest building. This page is an overview of those activities, not a tested survival route.",
+              "The useful distinction for newcomers is between the activities the game advertises and detailed gameplay procedures that must be discovered and tested in a live session."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "beginner-guide",
+            "label": "Broodwing Beginner Guide",
+            "description": "Start with the advertised gameplay loop and control checks."
+          }
+        ]
+      },
+      {
+        "id": "hunting-fish-and-bunnies",
+        "heading": "Hunting Fish and Bunnies",
+        "intro": "Fish and bunnies are the named prey types; hunting techniques require current in-game testing.",
+        "subsections": [
+          {
+            "heading": "Confirmed Prey in the Game Description",
+            "paragraphs": [
+              "Fish and bunnies are specifically named in the public description. That supports their presence in the described gameplay, but does not prove the present spawn distribution on each server.",
+              "Do not follow supposed coordinates, time windows or instant-farming methods unless they are backed by current footage of the correct game."
+            ]
+          },
+          {
+            "heading": "How to Verify Hunting Controls",
+            "paragraphs": [
+              "Locate fish or bunnies in the current experience and look for contextual prompts or a tutorial. Test controls carefully using the current device settings.",
+              "This guide has no independent evidence for an attack key, capture distance, food reward or prey respawn timer. Any such specifics would be guesses and are intentionally omitted."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "risks-predators-and-map-information",
+        "heading": "Risks, Predators and Map Information",
+        "intro": "Exact dangers and routes are unverified and should not be treated as game facts.",
+        "subsections": [
+          {
+            "heading": "Danger Claims That Need Evidence",
+            "paragraphs": [
+              "This guide does not list tested predators, hazard locations or combat damage. A threatening-looking model or a community heading alone does not establish how an encounter works.",
+              "Prioritize what you can observe in your own session. Avoid making claims that a location is always safe or that a species is immune to a hazard."
+            ]
+          },
+          {
+            "heading": "Locations and Spawn Routes",
+            "paragraphs": [
+              "No confirmed spawn coordinates or named hunting zones were provided. The game world may change after an update, and different servers may not show identical conditions.",
+              "Record a route only when a screenshot, map landmark and date can accompany it. Until then, the page serves as a trustworthy entry point to survival rather than a fictional map."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "build-a-repeatable-first-session-routine",
+        "heading": "Build a Repeatable First-Session Routine",
+        "intro": "Use a learning sequence that is reliable even while detailed mechanics remain unverified.",
+        "subsections": [
+          {
+            "heading": "Learn Movement, Then Observe Food",
+            "paragraphs": [
+              "Start with the official experience, read the active device controls and learn to move safely. Then observe what food actions the interface actually makes available.",
+              "The order is a practical learning checklist, not an assertion that the game requires particular progression gates."
+            ]
+          },
+          {
+            "heading": "Connect Survival with Nesting",
+            "paragraphs": [
+              "Nesting, eggs and chicks appear alongside hunting in the game description. Once comfortable with movement, explore the nesting interface and family roleplay.",
+              "For those systems use the dedicated nesting guide, which documents what has been advertised and what awaits testing."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "nesting-guide",
+            "label": "Broodwing Nesting Guide",
+            "description": "Understand nests, eggs, chicks and what still needs testing."
+          },
+          {
+            "slug": "birds",
+            "label": "Broodwing Birds",
+            "description": "Separate documented bird names from a live, confirmed roster."
+          }
+        ]
+      },
+      {
+        "id": "broodwing-survival-first-steps",
+        "heading": "Broodwing Survival: First Steps for a New Bird",
+        "intro": "Use the confirmed activity list as a starting point, then verify the current interface yourself.",
+        "subsections": [
+          {
+            "heading": "Learn movement before hunting",
+            "paragraphs": [
+              "Broodwing is described as a bird survival and roleplay game with flying. That makes movement central to the experience, but it does not provide a verified control chart, stamina system or altitude limit. Practice ordinary travel with the actual on-screen prompts before adopting a trick from an unrelated bird game.",
+              "A useful first experiment is to change only one part of your movement at a time and observe the result. Whether an action is available, how the camera responds and when the game provides feedback are all things you can check without claiming unverified numbers. Note your device, because touch and keyboard experiences may differ."
+            ]
+          },
+          {
+            "heading": "Investigate fish and bunnies",
+            "paragraphs": [
+              "Fish and bunnies are specifically mentioned as prey in the reproduced public description. That supports the theme of hunting but not spawn maps, attack values, drop rates, food rewards or a permanent list of animals. If you see a candidate prey object, look for a visible interaction cue and determine whether the game responds as expected.",
+              "Avoid treating a screenshot of a fish as evidence for a precise fishing mechanic. It may show scenery or one context rather than a universal action. Likewise, a bunny shown in a video does not reveal how many are present on every server or how they respond to different birds."
+            ]
+          },
+          {
+            "heading": "Know what survival means in your session",
+            "paragraphs": [
+              "The word survival can refer to health, food, threats or simply a gameplay theme. The current source does not establish exact hunger meters, damage formulas or environmental hazards in Broodwing. Look at the screen to identify any actual player-status indicators before assuming there is a timer or penalty.",
+              "If an indicator appears, record its name and when it changes during ordinary actions. A repeatable observation can later support an accurate guide. Until then, we use survival to describe the confirmed exploration and hunting theme rather than an invented list of dangers."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "broodwing-hunting-guide-evidence",
+        "heading": "How to Make Hunting Advice Reliable",
+        "intro": "An actionable Broodwing survival guide has to distinguish a real action from a plausible-sounding guess.",
+        "subsections": [
+          {
+            "heading": "Confirm the object and environment",
+            "paragraphs": [
+              "Before copying a hunting route from a video, confirm that it shows Broodwing on Roblox and not another survival experience. Compare the names and menus visible in the clip with your current game. Different map backgrounds or species labels are warning signs that the advice may not transfer.",
+              "When you find fish or bunnies, look for the interaction prompts and note the surrounding area. This guide does not establish fixed spawn locations or rates, so a single sighting should not be treated as a guaranteed route."
+            ]
+          },
+          {
+            "heading": "Confirm what triggers a successful action",
+            "paragraphs": [
+              "Do not assume that every bird has the same hunting ability or that pressing a familiar key guarantees an attack. Watch the game's own prompts and feedback, then describe what occurred. If a tutorial states that a particular move succeeds, it should identify the device, selected bird and current game version.",
+              "The useful output from testing is a simple before-and-after account: what was visible before the action, what interaction was used, what feedback followed, and whether anything changed in the interface. That is more informative than a generic instruction to 'hunt faster' with no evidence."
+            ]
+          },
+          {
+            "heading": "Avoid unverified optimization advice",
+            "paragraphs": [
+              "A popular survival page may promise the fastest food route, the safest area or an ideal bird build. None of those rankings follows from the limited public game description. They require comparable testing across routes, species and conditions, preferably after the latest game update.",
+              "Rather than claiming that one method is mathematically best, this guide recommends starting with the basic game-supported hunting activity and recording your own findings. Once a method is independently verified, it can be documented with exact constraints and updated if the game changes."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "broodwing-survival-and-roleplay",
+        "heading": "Survival and Family Roleplay Can Overlap",
+        "intro": "Food and flight are only part of the activity loop described for Broodwing.",
+        "subsections": [
+          {
+            "heading": "From exploration to a nest",
+            "paragraphs": [
+              "A player may begin with flying and hunting, then move toward nest construction and raising chicks. The public description mentions all of these activities, but it does not establish the precise order in which the game requires you to complete them. It is reasonable to explore them as connected goals without asserting that a certain amount of food is mandatory before building a nest.",
+              "If a current in-game prompt introduces such a requirement, capture it before teaching it to others. For now, use the nesting guide to investigate nest, egg and chick stages separately, while keeping food-related research on this survival page."
+            ]
+          },
+          {
+            "heading": "Choosing a bird for the task",
+            "paragraphs": [
+              "Try an available bird and judge how comfortable it feels for the activity you want to do. This guide does not identify a best survival bird or assume that real-world species differences translate into in-game speed or damage.",
+              "Read the birds guide to understand the difference between a currently selectable species and an unverified community claim. If a bird seems easier for you to control, describe that as your experience until controlled comparisons support a broader statement."
+            ]
+          },
+          {
+            "heading": "What to do when the game updates",
+            "paragraphs": [
+              "New Roblox experiences can change their interfaces and systems quickly. After a meaningful update, re-check the official listing, the selection screen and the interactions described by an older guide. A claim about fish, nests or controls should remain tied to an observed date rather than being called permanently current.",
+              "Search traffic is more useful to players when pages answer specific tasks and clearly identify evidence. We maintain separate pages for first steps, birds, nesting, survival and gamepasses so a verified update can be made precisely without rewriting unrelated advice."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "nesting-guide",
+            "label": "Nesting and chicks",
+            "description": "Continue from food and flight to family play."
+          },
+          {
+            "slug": "birds",
+            "label": "Birds guide",
+            "description": "Understand the current evidence on bird choices."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What food is in Broodwing?",
+        "answer": "The public Broodwing description mentions hunting fish and bunnies. The full food catalog has not been independently verified."
+      },
+      {
+        "question": "Where do fish and bunnies spawn?",
+        "answer": "This guide does not provide tested spawn coordinates. Explore the current map and use in-game information rather than relying on an undated route."
+      }
+    ],
+    "relatedSlugs": [
+      "beginner-guide",
+      "birds",
+      "nesting-guide",
+      "gamepasses"
+    ],
+    "lastReviewed": "2026-11-04"
+  },
+  {
+    "enabled": true,
+    "slug": "gamepasses",
+    "pageType": "database",
+    "navLabel": "Gamepasses",
+    "title": "Broodwing Gamepasses: Roblox Purchase Checklist",
+    "description": "Know what to check on Roblox before buying a Broodwing gamepass: the creator, listed benefit, price and purchase confirmation. Not a live catalog.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Broodwing Roblox guide",
+      "heading": "Broodwing Gamepasses Guide",
+      "lead": "Before buying a Broodwing gamepass, check the official Roblox listing, the benefit described and the final price. This page is a purchase checklist, not a verified catalog of current offers."
+    },
+    "sections": [
+      {
+        "id": "broodwing-gamepasses-current-listings",
+        "heading": "Where to Check Broodwing Gamepasses",
+        "intro": "This page is a purchase checklist, not a live inventory or price list.",
+        "subsections": [
+          {
+            "heading": "Official Product Name and Roblox Link",
+            "paragraphs": [
+              "No pass-specific catalog has been independently verified for this guide. Start from the official Roblox experience to check which products, if any, are currently offered.",
+              "Consequently this page does not present any item as currently for sale. Follow the linked official experience and navigate to its current store or passes section to inspect the active list."
+            ]
+          },
+          {
+            "heading": "Robux Price and Check Timestamp",
+            "paragraphs": [
+              "A current price must be read directly from a Roblox gamepass listing, with an observation date; older reports are historical rather than live prices.",
+              "This guide does not quote live prices. Read the amount and benefit on the Roblox listing and confirm both again in the purchase dialog."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-each-pass-actually-includes",
+        "heading": "How to Read a Pass Description",
+        "intro": "Variant names alone are not verified descriptions of gameplay benefits.",
+        "subsections": [
+          {
+            "heading": "Cosmetic Variant Versus Functional Benefit",
+            "paragraphs": [
+              "Third-party commentary has used color variant names, including leucistic and melanistic birds. Such names do not establish whether a pass is cosmetic, grants access to a species or provides any mechanical improvement.",
+              "Read the actual official product description and compare exactly what the item promises; do not infer special powers from an image or a variant name."
+            ]
+          },
+          {
+            "heading": "Do Not Assume Permanent Unlock Rules",
+            "paragraphs": [
+              "There is no verified official evidence here establishing permanence, transferability between birds, refunds or how a purchased entitlement is activated.",
+              "Roblox purchase confirmation and product wording should guide the decision. If the description does not clearly answer your question, do not purchase based on this guide alone."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "birds",
+            "label": "Broodwing Birds",
+            "description": "Separate documented bird names from a live, confirmed roster."
+          }
+        ]
+      },
+      {
+        "id": "how-to-buy-a-broodwing-gamepass",
+        "heading": "How to Buy a Broodwing Gamepass",
+        "intro": "Use the official Roblox purchase interface, not a fan site checkout.",
+        "subsections": [
+          {
+            "heading": "Open the Official Roblox Listing",
+            "paragraphs": [
+              "Start from the official Broodwing Roblox experience and inspect the item listing provided by Roblox itself. Verify that the experience and item creator are the intended ones before spending Robux.",
+              "Avoid third-party purchase redirects and copied store screenshots. This independent site does not sell, distribute or activate Roblox gamepasses."
+            ]
+          },
+          {
+            "heading": "Verify Price Before Checkout",
+            "paragraphs": [
+              "Check the displayed Robux amount, product description and the final purchase confirmation screen. Read whether any included feature matches your needs and do not rely on an undated social media price list.",
+              "This is a purchase safety checklist rather than a claim about current offers. Item availability can change without this site updating immediately."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "frequently-confused-pass-information",
+        "heading": "Frequently Confused Pass Information",
+        "intro": "Do not generalize prices or benefits from other Roblox experiences.",
+        "subsections": [
+          {
+            "heading": "Old Screenshots and Outdated Prices",
+            "paragraphs": [
+              "A screenshot captured before a game update may contain removed products or outdated prices. Publication dates and live product URLs should accompany every verifiable price claim.",
+              "An older community report is not an authorized current listing. Confirm the product directly on Roblox before paying."
+            ]
+          },
+          {
+            "heading": "Comparison with Other Roblox Games Is Not Proof",
+            "paragraphs": [
+              "Broodwing is a specific experience. Gamepasses in unrelated bird games cannot prove its prices, functionality or unlock methods.",
+              "Before making a comparison, establish the exact Roblox item and its current description; absent that evidence, mark the comparison as unverified instead of borrowing invented figures."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "beginner-guide",
+            "label": "Broodwing Beginner Guide",
+            "description": "Start with the advertised gameplay loop and control checks."
+          },
+          {
+            "slug": "",
+            "label": "Broodwing Roblox Guide",
+            "description": "Return to the Broodwing game guide."
+          }
+        ]
+      },
+      {
+        "id": "broodwing-gamepasses-verification",
+        "heading": "How to Verify Broodwing Gamepasses on Roblox",
+        "intro": "A price, perk or purchase restriction is reliable only if it matches the current Roblox listing.",
+        "subsections": [
+          {
+            "heading": "Start from the correct game page",
+            "paragraphs": [
+              "Open the official Broodwing Roblox experience first. Gamepass links and descriptions should be associated with that exact game rather than with a similarly named character or another Roblox project. Check the developer identity displayed by Roblox and inspect the game's available purchase interfaces; an independent guide cannot substitute for the actual seller's information.",
+              "Do not treat a search snippet as the current store: an index can retain an old description after an offer changes. Open the official Roblox experience and check its current store instead."
+            ]
+          },
+          {
+            "heading": "Record the exact product name and benefit",
+            "paragraphs": [
+              "If a pass is offered, read its entire description before deciding what it unlocks. Some products may be cosmetic, convenience-oriented or access-related in various Roblox games, but that is not evidence that Broodwing currently sells any particular type. Avoid assuming that a bird shown on a promotional image must be included with a pass.",
+              "A useful record includes the exact displayed title, a direct Roblox product URL, the current stated benefit and the date you observed it. If the description is vague, the limitation should be reported rather than replaced with a guess about stronger abilities, extra speed or exclusive family options."
+            ]
+          },
+          {
+            "heading": "Check the displayed Robux price",
+            "paragraphs": [
+              "Prices and product availability can change. The live Roblox purchase dialog is the appropriate place to confirm the requested Robux amount for your account before paying. Do not quote an older screenshot as a universally applicable current price, and avoid converting Robux into a currency figure unless the relevant purchase context is clear.",
+              "Check exactly which feature the purchase covers and read any restrictions displayed by Roblox. A variant name alone does not tell you what a pass includes."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "broodwing-gamepasses-buying-checklist",
+        "heading": "Broodwing Gamepasses Buying Checklist",
+        "intro": "Use these questions before making a purchase, especially while the game is changing rapidly.",
+        "subsections": [
+          {
+            "heading": "Does this pass solve my actual problem?",
+            "paragraphs": [
+              "Write down the task you want to complete: exploring as a bird, participating in nests and family play, or trying a different gameplay option. Then check whether the official product description explicitly says it helps with that task. General claims such as 'worth it for everyone' are not useful without evidence about the current game systems.",
+              "If you only need help learning the controls or finding a basic activity, start with the free informational guides on this site. They may help you understand the game before you spend any Robux, but they do not prove that every advertised activity is free or that every pass is unnecessary."
+            ]
+          },
+          {
+            "heading": "Is the benefit permanent and account-specific?",
+            "paragraphs": [
+              "Read the information displayed by Roblox and the experience owner. Do not assume that a product is transferable to another player, can be refunded, or grants a lifetime benefit unless its terms expressly support that conclusion. We have not independently verified the lifecycle rules for any Broodwing product.",
+              "If you are unsure about a purchase, avoid entering payment details through an unofficial page. A gamepass should be checked on Roblox's supported interface, not through a link that asks for credentials, recovery codes or off-platform card information."
+            ]
+          },
+          {
+            "heading": "What if a guide and the store disagree?",
+            "paragraphs": [
+              "The current official product description and purchase dialog should take priority over a fan guide. If a description is missing, a button is unavailable, or a benefit is unclear, treat the claim as unverified. Do not assume that a bug, an expired offer or a special prerequisite is the cause without direct evidence.",
+              "Check the date on a product screenshot before using it to make a purchase decision. The current Roblox listing and confirmation dialog should take priority over an older image."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "broodwing-gamepasses-player-decisions",
+        "heading": "What Players Should Know About Paid Features",
+        "intro": "The key question is not which pass sounds strongest, but what the live product demonstrably provides.",
+        "subsections": [
+          {
+            "heading": "Bird unlocks versus bird availability",
+            "paragraphs": [
+              "To find out whether a particular bird is free or locked, inspect its selection tile and read any requirement shown there. Cross-check a purchase prompt with the official item listing before assuming that a pass is needed.",
+              "Our birds guide intentionally avoids a fabricated species ranking for the same reason. A complete-looking chart of names, prices and bonuses would be misleading unless the chart comes from direct, current evidence for this precise experience."
+            ]
+          },
+          {
+            "heading": "Roleplay and nest features",
+            "paragraphs": [
+              "The published game description includes building nests, laying eggs, raising chicks and joining bird families. It does not state which, if any, of those actions require a pass. A third-party claim that a family role or egg is paywalled should be treated as unverified until you can match it to a live interface or product benefit.",
+              "For questions about the activities themselves, consult the nesting guide. It helps identify the relevant interactions without turning unsupported purchase assumptions into gameplay requirements."
+            ]
+          },
+          {
+            "heading": "Value and safety",
+            "paragraphs": [
+              "The right purchase depends on the player's goals, the product's actual terms and their own budget. There is no verified basis here to calculate a price-to-performance ratio or declare a top-value Broodwing gamepass. A current benefits comparison would be appropriate only after the individual products can be checked.",
+              "Avoid sites promising free Robux, pass generators or special account access. Do not give an independent guide your Roblox credentials. Use the platform's own privacy and payment tools, and take extra care if a child is making a purchase."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "birds",
+            "label": "Broodwing birds",
+            "description": "Check availability before assuming a paid unlock."
+          },
+          {
+            "slug": "nesting-guide",
+            "label": "Nesting guide",
+            "description": "See what is and is not confirmed about eggs and families."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How much are Broodwing gamepasses?",
+        "answer": "Current official Robux prices have not been verified in this guide. Open the official Roblox Broodwing experience and check the active item listing before buying."
+      },
+      {
+        "question": "Do gamepasses change bird abilities?",
+        "answer": "No such benefit is independently verified here. Only an official item description or reproducible gameplay can establish what a pass changes."
+      }
+    ],
+    "relatedSlugs": [
+      "beginner-guide",
+      "birds",
+      "nesting-guide",
+      "survival-guide"
+    ],
+    "lastReviewed": "2026-11-04"
+  }
+]

@@ -1,0 +1,30 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+.DS_Store
+*.tsbuildinfo
+.playwright-cli/
+release/
+
+# Local verification artifacts are never public source.
+output/playwright/
+playwright-report/
+test-results/
+artifacts/
+screenshots/
+snapshots/
+*screenshot*.png
+*screenshot*.jpg
+*screenshot*.webp
+LAUNCH_REVIEW*.md
+*QA*.md
+RELEASE_FIXES*.md
+*验收*.md
+*检查报告*.md
+*上线检查*.md
+*.log
+
+# Internal build research must never be committed
+*详情资料*.txt
