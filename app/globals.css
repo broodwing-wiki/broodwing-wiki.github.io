@@ -2,6 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Ad wrappers only: never override vendor creative styles. */
+.ad-slot { min-width: 0; width: 100%; margin-block: 1.5rem; padding-block: .75rem; text-align: center; }
+.ad-label { display: block; margin-bottom: .5rem; font-size: 10px; line-height: 1.5; letter-spacing: .08em; color: hsl(var(--muted-foreground)); }
+.ad-host { display: flex; justify-content: center; width: 100%; min-width: 0; overflow: hidden; }
+.ad-host-banner { min-height: 50px; }
+.ad-host-native { min-height: 120px; }
+.ad-frame { display: block; flex-shrink: 0; max-width: 100%; border: 0; }
+.ad-slot-native { border-block: 1px solid hsl(var(--border)); }
+@media (min-width: 768px) {
+  .ad-slot-banner { width: 728px; margin-inline: calc((100% - 728px) / 2); }
+  .ad-host-banner { min-height: 90px; }
+}
+
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body {

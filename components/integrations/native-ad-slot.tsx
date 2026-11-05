@@ -1,13 +1,10 @@
-import { integrations } from "@/config/integrations";
-import { NativeAdClient } from "./native-ad-client";
+import { AdFrame } from "./ad-frame";
 
 export function NativeAdSlot() {
-  if (integrations.ads.provider !== "adsterra-native") return null;
-
   return (
-    <NativeAdClient
-      scriptUrl={integrations.ads.scriptUrl}
-      containerId={integrations.ads.containerId}
-    />
+    <aside className="ad-slot ad-slot-native" aria-label="Advertisement" data-ad-slot="native">
+      <span className="ad-label">Advertisement</span>
+      <AdFrame kind="native" />
+    </aside>
   );
 }

@@ -3,15 +3,17 @@ import Link from "next/link";
 import type { PageSection } from "@/config/types";
 import { routePath } from "@/lib/urls";
 import { DataTable } from "./data-table";
+import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
 
-export function PageSections({ sections }: { sections: PageSection[] }) {
+export function PageSections({ sections, nativeAfterOpening = false }: { sections: PageSection[]; nativeAfterOpening?: boolean }) {
   return (
     <div className="space-y-16">
-      {sections.map((section) => (
+      {sections.map((section, index) => (
         <section id={section.id} key={section.id} className="scroll-mt-24">
           {section.eyebrow ? <p className="eyebrow">{section.eyebrow}</p> : null}
           <h2>{section.heading}</h2>
           {section.intro ? <p className="section-lead">{section.intro}</p> : null}
+          {nativeAfterOpening && index === 0 && section.intro ? <NativeAdSlot /> : null}
           {section.paragraphs?.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
 
           {section.bullets?.length ? (
@@ -66,6 +68,7 @@ export function PageSections({ sections }: { sections: PageSection[] }) {
               ))}
             </div>
           ) : null}
+          {nativeAfterOpening && index === 0 && !section.intro ? <NativeAdSlot /> : null}
         </section>
       ))}
     </div>
