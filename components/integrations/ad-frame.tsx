@@ -5,8 +5,8 @@ import { desktopBannerCode, mobileBannerCode, nativeBannerCode } from "@/config/
 // run during document parsing, not after client-side script injection.
 // Only one banner variant is written, based on viewport width.
 // Native ads are likewise placed in the document body at the actual ad slot.
-const mobileMarkup = JSON.stringify(mobileBannerCode).replace(/<\\//g, "<\\/");
-const desktopMarkup = JSON.stringify(desktopBannerCode).replace(/<\\//g, "<\\/");
+const mobileMarkup = JSON.stringify(mobileBannerCode).replaceAll("</", "<\\/");
+const desktopMarkup = JSON.stringify(desktopBannerCode).replaceAll("</", "<\\/");
 
 const responsiveBannerMarkup = `<script>
 (function () {
