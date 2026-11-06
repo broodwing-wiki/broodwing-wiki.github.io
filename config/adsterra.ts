@@ -1,4 +1,6 @@
 // Official GET CODE for this site. Keep these snippets unchanged.
+// Placement: banners and native units are parser-inserted into page body;
+// the Social Bar is loaded once from the shared root layout.
 export const desktopBannerCode = `<script>
   atOptions = {
     'key' : '77bacc86e870cb7b55a540c67fe9c491',
